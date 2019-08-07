@@ -1,5 +1,5 @@
 import axios from 'axios';
-axios.defaults.baseURL = 'http://localhost:81';
+axios.defaults.baseURL = 'http://huyouzuo:47';
 // axios.defaults.timeout = 5000;
 // axios.defaults.headers = {'content-type', 'application/json;charset="UTF-8"'};
 
